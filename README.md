@@ -2,6 +2,8 @@
 
 A theme for [Qutebrowser](https://qutebrowser.org) based on the [Nord](https://github.com/arcticicestudio/nord) theme.
 
+![Screenshot](screenshot.png "Screenshot")
+
 ## Install
 
 1. Clone this repo or copy `nord-qutebrowser.py`.
