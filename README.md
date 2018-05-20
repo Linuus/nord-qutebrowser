@@ -2,7 +2,7 @@
 
 A theme for [Qutebrowser](https://qutebrowser.org) based on the [Nord](https://github.com/arcticicestudio/nord) theme.
 
-![Screenshot](screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/Linuus/nord-qutebrowser/master/screenshot.png "Screenshot")
 
 ## Install
 
