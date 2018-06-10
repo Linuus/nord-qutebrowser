@@ -7,4 +7,5 @@ A theme for [Qutebrowser](https://qutebrowser.org) based on the [Nord](https://g
 ## Install
 
 1. Clone this repo or copy `nord-qutebrowser.py`.
-2. Add `exec(open('/path/to/nord-qutebrowser.py').read())` at the _end_ of you `config.py` file.
+2. Symlink (or just copy) the file `nord-qutebrowser.py` to your `.qutebrowser` directory.
+3. Add `config.source('nord-qutebrowser.py')` at the _end_ of you `config.py` file.
